@@ -47,6 +47,7 @@ if __name__ == '__main__':
             'SharedArray',
             'spconv',
             'opencv-python',
+            'av2',
         ],
 
         author='Shaoshuai Shi',
