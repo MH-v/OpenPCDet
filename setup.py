@@ -38,7 +38,7 @@ if __name__ == '__main__':
         install_requires=[
             'numpy',
             'llvmlite',
-            'numba',
+            'numba-cuda',
             'tensorboardX',
             'easydict',
             'pyyaml',
